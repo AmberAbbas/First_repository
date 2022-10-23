@@ -1,6 +1,3 @@
-from numpy import place
-from pandas import array
-
 
 name= input("What is your name?")
 print("Welcome", name)
